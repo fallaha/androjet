@@ -1,0 +1,28 @@
+site_name: AndroJet Document
+theme:
+  name: material
+  palette:
+    primary: indigo
+  features:
+    - instant
+    - tabs
+
+nav:
+  - Developing:
+    - Home: index.md
+    - JML: jml.md
+    - Local Library: locallibrary.md
+    - Shadow: shadow.md
+    - Border and Background: borderandbg.md
+    - Defaults: defaults.md
+    - Naming: naming.md
+  - Project Managment:
+    - Installation Guid: installation.md
+    - Initialize Project: init.md
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tabbed
