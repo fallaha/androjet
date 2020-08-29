@@ -37,7 +37,7 @@ Example
     simple activity with one `FramLayout` and `View` to show a rectangle with shadow.
 
 
-    <img src="/image/shadow/shadow-view.png" alt="sample" title="sample" width="270" align="right" />
+    <img src="img/shadow-view.png" alt="sample" title="sample" width="270" align="right" />
 
     ``` sass hl_lines="11 12 13 14"
     activity {
@@ -64,7 +64,7 @@ Example
     this sample shows rounded shadow. when using `border-radius` attribute `shadow` and  `background` will be rounded.
 
 
-    <img src="/image/shadow/shadow-round.png" alt="sample" title="sample" width="270" align="right" />
+    <img src="img/shadow-round.png" alt="sample" title="sample" width="270" align="right" />
 
     ``` sass hl_lines="18 19 20 21 22"
     activity {

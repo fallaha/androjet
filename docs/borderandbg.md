@@ -6,7 +6,7 @@ AndroJet has tried to make background like css style. border and background are 
 
 === "Simple Background"
 
-    <img src="/image/bg/simple-bg.png" alt="sample" title="sample" width="270" align="left" />
+    <img src="img/simple-bg.png" alt="sample" title="sample" width="270" align="left" />
 
     ``` sass hl_lines="6 9"
     activity {
@@ -26,7 +26,7 @@ AndroJet has tried to make background like css style. border and background are 
     ```
 
 === "Rounded Background"
-    <img src="/image/bg/rounded-bg.png" alt="sample" title="sample" width="270" align="left" />
+    <img src="img/rounded-bg.png" alt="sample" title="sample" width="270" align="left" />
 
     ``` sass hl_lines="6 10 11"
     activity {
@@ -49,7 +49,7 @@ AndroJet has tried to make background like css style. border and background are 
 
 
 === "Border"
-    <img src="/image/bg/border-rounded-bg.png" alt="sample" title="sample" width="270" align="left" />
+    <img src="img/border-rounded-bg.png" alt="sample" title="sample" width="270" align="left" />
 
    
 

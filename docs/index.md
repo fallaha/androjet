@@ -1,4 +1,5 @@
-<p align="center"><img src="/image/logo/AndroJet-logo.png"></p>
+<img src="img/AndroJet-logo.png" alt="sample" title="sample" width="270" align="left" />
+
 
 overview
 =================
